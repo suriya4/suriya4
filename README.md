@@ -2,7 +2,7 @@
 <div align="center">
   <img height="150" src="images/giphy.gif"  />
 </div>
-<h1 align="center">Hi, I'm Kedareeshwar Sekar! <img src="images/wave.webp" width="40"></h1>
+<h1 align="center">Hi, I'm Suriya Prashana! <img src="images/wave.webp" width="40"></h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kedar0705&label=Profile%20views&color=0e77b6&style=flat" alt="kedar" /> </p>
 
@@ -15,10 +15,10 @@
 - 🎓 I'm a AI & ML student at [CIT](https://www.cit.edu.in/).
 - 🌱 I’m currently learning **Natural Language Processing, LLMs**
 - 💬 Ask me about **Python, Machine Learning, LLMs**
-- 📫 How to reach me **kedareshwar72381@gmail.com**   
+- 📫 How to reach me **suriyaprashanna04@gmail.com**   
 
 ### <b>🔗 Links</b>
-<a href="https://www.linkedin.com/in/kedareeshwar-sekar-b78a431b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedareeshwar sekar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suriyaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suriya Prashanna" height="30" width="40" /></a>
 <a href="https://instagram.com/kedar_eshwar?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kedar_eshwar" height="30" width="40" /></a>
 </p>
 <br>
