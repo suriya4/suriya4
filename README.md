@@ -19,7 +19,7 @@
 
 ### <b>🔗 Links</b>
 <a href="https://www.linkedin.com/in/suriyaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suriya Prashanna" height="30" width="40" /></a>
-<a href="https://instagram.com/kedar_eshwar?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kedar_eshwar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/suriyaprashanna?utm_source=qr&igsh=MWhvYmJocm4yMTR0bw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kedar_eshwar" height="30" width="40" /></a>
 </p>
 <br>
 
