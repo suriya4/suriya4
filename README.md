@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="150" src="[images/giphy.gif](https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif)"  />
+  <img height="150" src="https://camo.githubusercontent.com/3c9ea48af692c5c4b800e4dac1e7bd7f3de90258effe9dc4b56a0ed24040cac1/68747470733a2f2f6436663664306b707a306779722e636c6f756466726f6e742e6e65742f75706c6f6164732f696d616765732d617263686976652f426c6f672f476966732f636f64696e672e676966"  />
 </div>
 <h1 align="center">Hi, I'm Suriya Prashana! <img src="images/wave.webp" width="40"></h1>
 
