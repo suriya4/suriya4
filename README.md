@@ -6,9 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suriya4&label=Profile%20views&color=0e77b6&style=flat" alt="Suriya" /> </p>
 
-<p align="center">
-  <img alt="Suriya's git" src="images/kedar git.png" width="400" />
-</p>
+
 
 
 ### <b>About me</b>
